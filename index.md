@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## About:
 
-You can use the [editor on GitHub](https://github.com/Hisham-sati/mMath/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+About here...
+<br/><br/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+___
+## Speakers:
 
-### Markdown
+  1. Katrin Becker,
+  2. David Berman 
+  3. Peter Bouwknegt, 
+  4. Martin Cederwall, 
+  5. Chong-Sun Chu,
+  6. Jacques Distler, 
+  7. Michael Duff, 
+  8. José Figueroa-O'Farrill,
+  9. Domenico Fiorenza, 
+  10. Sergei Gukov, 
+  11. Fei Han, 
+  12. Chris Hull,
+  13. Amer Iqbal, 
+  14. Branislav Jurco,
+  15. Neil Lambert, 
+  16. Varghese Mathai, 
+  17. Christian Saemann, 
+  18. Henning Samtleben, 
+  19. Hisham Sati
+  20. Urs Schreiber,
+  21. Ashoke Sen,
+  22. Eric Sharpe, 
+  23. Dmitri Sorokin,
+  24. Meng-Chwan Tan
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br/><br/>
+___
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hisham-sati/mMath/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support:
+![NYUAD Institute](inst.png)
