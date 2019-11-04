@@ -1,7 +1,6 @@
 ## About:
 
 About here...
-<br/><br/>
 
 ___
 ## Speakers:
@@ -31,7 +30,6 @@ ___
   23. Dmitri Sorokin,
   24. Meng-Chwan Tan
 
-<br/><br/>
 ___
 
 ## Support:
