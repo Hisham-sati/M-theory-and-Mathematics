@@ -1,6 +1,23 @@
 ## About:
 
-About here...
+The goal of this workshop is to bring together experts on the mathematical aspects of 
+M-theory, with implications to string theory and  quantum field theory and interactions 
+with geometry and topology. 
+
+___
+## Schedule
+
+|             | JAN 27 (MON)       | JAN 28 (TUE)     | JAN 29 (WED) | JAN 30 (THU) |
+|-------------|--------------------|------------------|--------------|--------------|
+| 9:00-10:00  | Duff               | Hull             | Lambert      | Mathai       |
+| 10:10-11:10 | Figueroa-O’Farrill | Berman           | Saemann      | Han          |
+| 11:10-11:30 |                    | Break 1          |              |              |
+| 11:30-12:30 | Sati               | Bouwknegt        | Chu          | Fiorenza     |
+| 12:30-2:00  |                    | Lunch–Torch Club |              |              |
+| 2:00-3:00   | Sorokin            | Samtleben        | Sharpe       | Pei          |
+| 3:10-4:10   | Tan                | Cederwall        | He           | Linch        |
+| 4:10-4:30   |                    | Break 2          |              |              |
+| 4:30-5:30   | Schreiber          | Jurco            | (excursion)  | Sen          |
 
 ___
 ## Scientific Committee
