@@ -5,6 +5,10 @@ M-theory, with implications to string theory and  quantum field theory and inter
 with geometry and topology. 
 
 ___
+## Organizer
+
+Hisham Sati
+___
 ## Scientific Committee
 
   1. Michael Duff
