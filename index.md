@@ -15,8 +15,9 @@ ___
   2. Neil Lambert 
   3. Hisham Sati
   4. Urs Schreiber 
-  5. Christian Saemann 
-  6. Meng-Chwan Tan 
+  5. Ashoke Sen 
+  6. Christian Saemann 
+  7. Meng-Chwan Tan 
   
 ___
 ## Speakers:
