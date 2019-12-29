@@ -38,7 +38,7 @@ ___
 14. Varghese Mathai (University of Adelaide, Australia)
 15. Du Pei (Caltech, USA) 
 16. Christian Saemann (Heriot-Watt University, UK) 
-17. Henning Samtleben (ENS de Lyon, France)  
+17. Henning Samtleben (ENS de Lyon, France)    
 18. Hisham Sati (NYUAD) 
 19. Urs Schreiber (NYUAD and Czech Academy of Sciences)
 20. Ashoke Sen (Harish-Chandra Research Institute, India) 
@@ -49,17 +49,17 @@ ___
 ___
 ## Schedule
 
-| Jan 27-30   | MON                | TUE              | WED         | THU      |
-|-------------|--------------------|---------------------|----------------|--------------|
-| 9:00-10:00  | Duff               | Hull             | Lambert     | Mathai   |
-| 10:10-11:10 | Figueroa-O’Farrill | Berman           | Saemann     | Han      |
-| 11:10-11:30 |                    | **Break 1**          |             |          |
-| 11:30-12:30 | Sati               | Bouwknegt        | Chu         | Fiorenza |
-| 12:30-2:00  |                    | **Lunch: Torch Club** |             |          |
-| 2:00-3:00   | Sorokin            | Samtleben        | Sharpe      | Pei      |
-| 3:10-4:10   | Tan                | Cederwall        | He          | Linch    |
-| 4:10-4:30   |                    | **Break 2**          |             |          |
-| 4:30-5:30   | Schreiber          | Jurco            | **Excursion** | Sen **(Special lecture)**     |
+| Jan 27-30   | MON                | TUE                 | WED            |         THU            |
+|-------------|--------------------|---------------------|----------------|------------------------|
+| 9:00-10:00  | Duff               | Hull                | Lambert        | Mathai                 |
+| 10:10-11:10 | Figueroa-O’Farrill | Berman              | Saemann        | Han                    |
+| 11:10-11:30 |                    | **Break 1**         |                |                        |
+| 11:30-12:30 | Sati               | Bouwknegt           | Chu            | Fiorenza               |
+| 12:30-2:00  |                    |**Lunch: Torch Club**|                |                        |
+| 2:00-3:00   | Sorokin            | Samtleben           | Sharpe         | Pei                    |
+| 3:10-4:10   | Tan                | Cederwall           | He             | Linch                  |
+| 4:10-4:30   |                    | **Break 2**         |                |                        |
+| 4:30-5:30   | Schreiber          | Jurco               | **Excursion**  |Sen**(Special lecture)**|
                                                                     
 ___
 
