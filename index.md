@@ -8,7 +8,7 @@ ___
 ## Organizer
 
 Hisham Sati
-___
+_______
 ## Scientific Committee
 
   1. Michael Duff
@@ -20,7 +20,7 @@ ___
   7. Meng-Chwan Tan 
   
 ___
-## Speakers:
+## Speakers
 
 1. David Berman  (Queen Mary University of London, UK) 
 2. Peter Bouwknegt (The Australian National University, Australia) 
