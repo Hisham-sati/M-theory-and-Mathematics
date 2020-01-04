@@ -25,10 +25,10 @@ ___
 1. David Berman  (Queen Mary University of London, UK) 
 2. Peter Bouwknegt (The Australian National University, Australia) 
 3. Martin Cederwall (Chalmers University of Technology, Sweden) 
-4. Chong-Sun Chu (National Tsing Hua University, Taiwan) 
-5. Michael Duff  (Imperial College, UK)
-6. José Figueroa-O’Farrill (University of Edinburgh, UK) 
-7. Domenico Fiorenza (Rome University, Italy) 
+4. Michael Duff  (Imperial College, UK)
+5. José Figueroa-O’Farrill (University of Edinburgh, UK) 
+6. Domenico Fiorenza (Rome University, Italy) 
+7. Pietro Grassi (University del Piemonte Orientale, Italy) 
 8. Fei Han  (National University of Singapore) 
 9. Yang-Hui He (Oxford University, UK) 
 10. Chris Hull (Imperial College, UK) 
@@ -54,7 +54,7 @@ ___
 | 9:00-10:00  | Duff               | Hull                | Lambert        | Mathai                  |
 | 10:10-11:10 | Figueroa-O’Farrill | Berman              | Saemann        | Han                     |
 | 11:10-11:30 |                    | **Break 1**         |                |                         |
-| 11:30-12:30 | Sati               | Bouwknegt           | Chu            | Fiorenza                |
+| 11:30-12:30 | Sati               | Bouwknegt           | Fiorenza       | Grassi                  |
 | 12:30-2:00  |                    |**Lunch: Torch Club**|                |                         |
 | 2:00-3:00   | Sorokin            | Samtleben           | Sharpe         | Pei                     |
 | 3:10-4:10   | Tan                | Cederwall           | He             | Linch                   |
