@@ -27,7 +27,7 @@ ___
 3. Martin Cederwall (Chalmers University of Technology, Sweden) 
 4. Michael Duff  (Imperial College, UK)
 5. José Figueroa-O’Farrill (University of Edinburgh, UK) 
-6. Domenico Fiorenza (Rome University, Italy) 
+6. Domenico Fiorenza (Sapienza, University of Rome, Italy) 
 7. Pietro Grassi (University del Piemonte Orientale, Italy) 
 8. Fei Han  (National University of Singapore) 
 9. Yang-Hui He (Oxford University, UK) 
