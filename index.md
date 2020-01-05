@@ -56,8 +56,8 @@ ___
 | 11:10-11:30 |                    | **Break 1**         |                |                         |
 | 11:30-12:30 | Sati               | Bouwknegt           | Fiorenza       | Grassi                  |
 | 12:30-2:00  |                    |**Lunch: Torch Club**|                |                         |
-| 2:00-3:00   | Tan                | Samtleben           | Sharpe         | Pei                     |
-| 3:10-4:10   | Sorokin           | Cederwall           | He             | Linch                   |
+| 2:00-3:00   | Sorokin            | Samtleben           | Sharpe         | Tan                     |
+| 3:10-4:10   | Linch              | Cederwall           | He             | Pei                     |
 | 4:10-4:30   |                    | **Break 2**         |                |                         |
 | 4:30-5:30   | Schreiber          | Jurco               | **Excursion**  |Sen **(Special lecture)**|
                                                                     
