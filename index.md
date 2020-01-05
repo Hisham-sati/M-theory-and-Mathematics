@@ -8,7 +8,7 @@ ___
 ## Organizer
 
 Hisham Sati
-___
+
 ## Scientific Committee
 
   1. Michael Duff
