@@ -13,10 +13,10 @@ Hisham Sati
 
   1. Michael Duff
   2. Neil Lambert 
-  3. Hisham Sati
-  4. Urs Schreiber 
-  5. Ashoke Sen 
-  6. Christian Saemann 
+  3. Christian Saemann 
+  4. Hisham Sati
+  5. Urs Schreiber 
+  6. Ashoke Sen 
   7. Meng-Chwan Tan 
   
 ___
