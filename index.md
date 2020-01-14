@@ -27,8 +27,8 @@ ___
 3. Martin Cederwall (Chalmers University of Technology, Sweden) 
 4. Michael Duff  (Imperial College, UK)
 5. José Figueroa-O’Farrill (University of Edinburgh, UK): *Lie superalgebra deformations and d=11 supergravity backgrounds* 
-6. Domenico Fiorenza (Sapienza University of Rome, Italy) 
-7. Pietro Grassi (University del Piemonte Orientale, Italy) 
+6. Domenico Fiorenza (Sapienza University of Rome, Italy): *Twisted cohomotopy and the level quantization of the 6d Wess-Zumino term*
+7. Pietro Grassi (University del Piemonte Orientale, Italy): *The Integral Form of Supergravity *
 8. Fei Han  (National University of Singapore) 
 9. Yang-Hui He (Oxford University, UK): *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
 10. Chris Hull (Imperial College, UK) 
