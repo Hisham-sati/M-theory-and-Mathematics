@@ -40,7 +40,7 @@ ___
 16. Christian Saemann (Heriot-Watt University, UK) 
 17. Henning Samtleben (ENS de Lyon, France): *Exceptional field theories and AdS compactifications*
 18. Hisham Sati (NYUAD): *M-theory and cohomotopy* 
-19. Urs Schreiber (NYUAD and Czech Academy of Sciences)
+19. Urs Schreiber (NYUAD and Czech Academy of Sciences): *Microscopic branes from cohomotopy*
 20. Ashoke Sen (Harish-Chandra Research Institute, India): *Gravitational waves from soft theorem*
 21. Eric Sharpe (Virginia Tech, USA): *Decomposition of two-dimensional theories with one-form symmetries*
 22. Dmitri Sorokin (University of Padova, Italy): *How SYM domain walls look like?* 
