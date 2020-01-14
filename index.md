@@ -41,7 +41,7 @@ ___
 17. Henning Samtleben (ENS de Lyon, France)    
 18. Hisham Sati (NYUAD) 
 19. Urs Schreiber (NYUAD and Czech Academy of Sciences)
-20. Ashoke Sen (Harish-Chandra Research Institute, India) 
+20. Ashoke Sen (Harish-Chandra Research Institute, India): Gravitational waves from soft theorem
 21. Eric Sharpe (Virginia Tech, USA) 
 22. Dmitri Sorokin (University of Padova, Italy) 
 23. Meng-Chwan Tan (National University of Singapore) 
