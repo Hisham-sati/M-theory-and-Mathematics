@@ -22,9 +22,9 @@ Hisham Sati
 ___
 ## Speakers
 
-1. David Berman  (Queen Mary University of London, UK) 
+1. David Berman  (Queen Mary University of London, UK): *Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia) 
-3. Martin Cederwall (Chalmers University of Technology, Sweden) 
+3. Martin Cederwall (Chalmers University of Technology, Sweden): *Supersymmetry, nilpotent varieties and superalgebras*
 4. Michael Duff  (Imperial College, UK)
 5. José Figueroa-O’Farrill (University of Edinburgh, UK): *Lie superalgebra deformations and d=11 supergravity backgrounds* 
 6. Domenico Fiorenza (Sapienza University of Rome, Italy): *Twisted cohomotopy and the level quantization of the 6d Wess-Zumino term*
@@ -44,7 +44,7 @@ ___
 20. Ashoke Sen (Harish-Chandra Research Institute, India): *Gravitational waves from soft theorem*
 21. Eric Sharpe (Virginia Tech, USA): *Decomposition of two-dimensional theories with one-form symmetries*
 22. Dmitri Sorokin (University of Padova, Italy): *How SYM domain walls look like?* 
-23. Meng-Chwan Tan (National University of Singapore) 
+23. Meng-Chwan Tan (National University of Singapore): *Unifying Lattice Models, Links and Quantum Geometric Langlands via Branes in String Theory*
 
 ___
 ## Schedule
