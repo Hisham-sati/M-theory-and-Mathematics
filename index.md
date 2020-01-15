@@ -22,49 +22,49 @@ Hisham Sati
 ___
 ## Speakers
 
-1. David Berman  (Queen Mary University of London, UK): <br />       
+1. David Berman  (Queen Mary University of London, UK):<br />       
  *Machine learning and M-theory?*
-2. Peter Bouwknegt (The Australian National University, Australia): <br />
+2. Peter Bouwknegt (The Australian National University, Australia):<br />
 *Higher spin algebras and representation theory*
 3. Martin Cederwall (Chalmers University of Technology, Sweden):  
 *Supersymmetry, nilpotent varieties and superalgebras*
-4. Michael Duff  (Imperial College, UK): <br />
+4. Michael Duff  (Imperial College, UK):<br />
 *TBD*
-5. José Figueroa-O’Farrill (University of Edinburgh, UK): \
+5. José Figueroa-O’Farrill (University of Edinburgh, UK):<br />
 *Lie superalgebra deformations and d=11 supergravity backgrounds* 
-6. Domenico Fiorenza (Sapienza University of Rome, Italy): \
+6. Domenico Fiorenza (Sapienza University of Rome, Italy):<br />
 *Twisted cohomotopy and the level quantization of the 6d Wess-Zumino term*
-7. Pietro Grassi (University del Piemonte Orientale, Italy):\
+7. Pietro Grassi (University del Piemonte Orientale, Italy):<br />
 *The Integral Form of Supergravity*
-8. Fei Han  (National University of Singapore): \
+8. Fei Han  (National University of Singapore):<br />
 *Projective elliptic genera and elliptic pseudodifferential genera*
-9. Yang-Hui He (Oxford University, UK): \
+9. Yang-Hui He (Oxford University, UK):<br />
 *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
-10. Chris Hull (Imperial College, UK): \
+10. Chris Hull (Imperial College, UK):<br />
 *TBD*
-11. Branislav Jurco (Charles University, Czech Republic): \
+11. Branislav Jurco (Charles University, Czech Republic):<br />
 *TBD*
-12. Neil Lambert (Kings College, UK): \
+12. Neil Lambert (Kings College, UK):<br />
 *Lagrangians with (2,0) supersymmetry*
-13. William Linch III  (Texas A & M University, USA):\
+13. William Linch III  (Texas A & M University, USA):<br />
 *Off-shell Supersymmetry and the M-theory Effective Action*
-14. Varghese Mathai (University of Adelaide, Australia):\
+14. Varghese Mathai (University of Adelaide, Australia):<br />
 *T-duality, loop space and Witten gerbe modules*
-15. Christian Saemann (Heriot-Watt University, UK): \
+15. Christian Saemann (Heriot-Watt University, UK):<br />
 *TBD*
-16. Henning Samtleben (ENS de Lyon, France): \
+16. Henning Samtleben (ENS de Lyon, France):<br />
 *Exceptional field theories and AdS compactifications*
 17. Hisham Sati (NYUAD): \
 *M-theory and cohomotopy* 
-18. Urs Schreiber (NYUAD and Czech Academy of Sciences):\
+18. Urs Schreiber (NYUAD and Czech Academy of Sciences):<br />
 *Microscopic branes from cohomotopy*
-19. Ashoke Sen (Harish-Chandra Research Institute, India): \
+19. Ashoke Sen (Harish-Chandra Research Institute, India):<br />
 *Gravitational waves from soft theorem*
-20. Eric Sharpe (Virginia Tech, USA): \
+20. Eric Sharpe (Virginia Tech, USA):<br />
 *Decomposition of two-dimensional theories with one-form symmetries*
-21. Dmitri Sorokin (University of Padova, Italy):\
+21. Dmitri Sorokin (University of Padova, Italy):<br />
 *How SYM domain walls look like?* 
-22. Meng-Chwan Tan (National University of Singapore):\
+22. Meng-Chwan Tan (National University of Singapore):<br />
 *Unifying Lattice Models, Links and Quantum Geometric Langlands via Branes in String Theory*
 
 ___
