@@ -28,7 +28,8 @@ ___
    *Higher spin algebras and representation theory*
 3. Martin Cederwall (Chalmers University of Technology, Sweden):  
    *Supersymmetry, nilpotent varieties and superalgebras*
-4. Michael Duff  (Imperial College, UK)
+4. Michael Duff  (Imperial College, UK):\
+*TBD*
 5. José Figueroa-O’Farrill (University of Edinburgh, UK): \
 *Lie superalgebra deformations and d=11 supergravity backgrounds* 
 6. Domenico Fiorenza (Sapienza University of Rome, Italy): \
