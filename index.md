@@ -43,7 +43,7 @@ ___
 10. Chris Hull (Imperial College, UK):<br />
 *TBD*
 11. Branislav Jurco (Charles University, Czech Republic):<br />
-*TBD*
+*Homotopy algebras in string field theory*
 12. Neil Lambert (Kings College, UK):<br />
 *Lagrangians with (2,0) supersymmetry*
 13. William Linch III  (Texas A & M University, USA):<br />
