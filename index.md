@@ -22,7 +22,7 @@ Hisham Sati
 ___
 ## Speakers
 
-1. David Berman  (Queen Mary University of London, UK):<br />       
+1. David Berman  (Queen Mary University of London, UK):<br /> 
 *Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia):<br />
 *Higher spin algebras and representation theory*
@@ -51,11 +51,11 @@ ___
 14. Varghese Mathai (University of Adelaide, Australia):<br />
 *T-duality, loop space and Witten gerbe modules*
 15. Christian Saemann (Heriot-Watt University, UK):<br />
-*TBD*
+*Towards an M5-Brane Model: Progress Report*
 16. Henning Samtleben (ENS de Lyon, France):<br />
 *Exceptional field theories and AdS compactifications*
 17. Hisham Sati (NYUAD):<br />
-*M-theory and cohomotopy* 
+*M-theory and cohomotopy*  
 18. Urs Schreiber (NYUAD and Czech Academy of Sciences):<br />
 *Microscopic branes from cohomotopy*
 19. Ashoke Sen (Harish-Chandra Research Institute, India):<br />
