@@ -22,13 +22,13 @@ Hisham Sati
 ___
 ## Speakers
 
-1. David Berman  (Queen Mary University of London, UK): <br />
+1. David Berman  (Queen Mary University of London, UK):                                                                     
    *Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia): <br />
    *Higher spin algebras and representation theory*
 3. Martin Cederwall (Chalmers University of Technology, Sweden):  
    *Supersymmetry, nilpotent varieties and superalgebras*
-4. Michael Duff  (Imperial College, UK):\
+4. Michael Duff  (Imperial College, UK): <br />
 *TBD*
 5. José Figueroa-O’Farrill (University of Edinburgh, UK): \
 *Lie superalgebra deformations and d=11 supergravity backgrounds* 
