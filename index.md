@@ -26,7 +26,7 @@ ___
    *Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia): \
    *Higher spin algebras and representation theory*
-3. Martin Cederwall (Chalmers University of Technology, Sweden): \ 
+3. Martin Cederwall (Chalmers University of Technology, Sweden):  
    *Supersymmetry, nilpotent varieties and superalgebras*
 4. Michael Duff  (Imperial College, UK)
 5. José Figueroa-O’Farrill (University of Edinburgh, UK): \
@@ -40,7 +40,9 @@ ___
 9. Yang-Hui He (Oxford University, UK): \
 *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
 10. Chris Hull (Imperial College, UK): \
+*TBD*
 11. Branislav Jurco (Charles University, Czech Republic): \
+*TBD*
 12. Neil Lambert (Kings College, UK): \
 *Lagrangians with (2,0) supersymmetry*
 13. William Linch III  (Texas A & M University, USA):\
@@ -48,9 +50,11 @@ ___
 14. Varghese Mathai (University of Adelaide, Australia):\
 *T-duality, loop space and Witten gerbe modules*
 15. Christian Saemann (Heriot-Watt University, UK): \
+*TBD*
 16. Henning Samtleben (ENS de Lyon, France): \
 *Exceptional field theories and AdS compactifications*
-17. Hisham Sati (NYUAD): *M-theory and cohomotopy* 
+17. Hisham Sati (NYUAD): \
+*M-theory and cohomotopy* 
 18. Urs Schreiber (NYUAD and Czech Academy of Sciences):\
 *Microscopic branes from cohomotopy*
 19. Ashoke Sen (Harish-Chandra Research Institute, India): \
