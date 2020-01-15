@@ -4,20 +4,6 @@ The goal of this workshop is to bring together experts on the mathematical aspec
 M-theory, with implications to string theory and  quantum field theory and interactions 
 with geometry and topology. 
 
-___
-## Scientific Committee
-
-  1. Michael Duff
-  2. Neil Lambert 
-  3. Christian Saemann 
-  4. Hisham Sati
-  5. Urs Schreiber 
-  6. Ashoke Sen 
-  7. Meng-Chwan Tan 
-
-## Organizer
-
-Hisham Sati
 
 ___
 ## Speakers
@@ -81,7 +67,25 @@ ___
 | 3:10-4:10   | Linch              | Cederwall           | He             | Pei                     |
 | 4:10-4:30   |                    | **Break 2**         |                |                         |
 | 4:30-5:30   | Schreiber          | Jurco               | **Excursion**  |Sen **(Special lecture)**|
-                                                                    
+
+
+___
+## Scientific Committee
+
+  1. Michael Duff
+  2. Neil Lambert 
+  3. Christian Saemann 
+  4. Hisham Sati
+  5. Urs Schreiber 
+  6. Ashoke Sen 
+  7. Meng-Chwan Tan 
+
+## Organizer
+
+Hisham Sati
+
+
+
 ___
 
 ## Support:
