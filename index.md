@@ -23,7 +23,7 @@ ___
 ## Speakers
 
 1. David Berman  (Queen Mary University of London, UK):<br />       
- *Machine learning and M-theory?*
+*Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia):<br />
 *Higher spin algebras and representation theory*
 3. Martin Cederwall (Chalmers University of Technology, Sweden):  
