@@ -54,7 +54,7 @@ ___
 *TBD*
 16. Henning Samtleben (ENS de Lyon, France):<br />
 *Exceptional field theories and AdS compactifications*
-17. Hisham Sati (NYUAD): \
+17. Hisham Sati (NYUAD):<br />
 *M-theory and cohomotopy* 
 18. Urs Schreiber (NYUAD and Czech Academy of Sciences):<br />
 *Microscopic branes from cohomotopy*
