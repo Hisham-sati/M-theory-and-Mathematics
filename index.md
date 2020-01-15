@@ -22,7 +22,7 @@ Hisham Sati
 ___
 ## Speakers
 
-1. David Berman  (Queen Mary University of London, UK): 
+1. David Berman  (Queen Mary University of London, UK): \
    *Machine learning and M-theory?*
 2. Peter Bouwknegt (The Australian National University, Australia): 
    *Higher spin algebras and representation theory*
