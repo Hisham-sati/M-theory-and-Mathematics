@@ -5,10 +5,6 @@ M-theory, with implications to string theory and  quantum field theory and inter
 with geometry and topology. 
 
 ___
-## Organizer
-
-Hisham Sati
-
 ## Scientific Committee
 
   1. Michael Duff
@@ -18,7 +14,11 @@ Hisham Sati
   5. Urs Schreiber 
   6. Ashoke Sen 
   7. Meng-Chwan Tan 
-  
+
+## Organizer
+
+Hisham Sati
+
 ___
 ## Speakers
 
