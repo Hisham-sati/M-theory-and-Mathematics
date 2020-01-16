@@ -43,7 +43,7 @@ ___
 17. **Hisham Sati** (NYUAD):<br />
 *M-theory and cohomotopy*  
 18. **Urs Schreiber** (NYUAD and Czech Academy of Sciences):<br />
-*Microscopic branes from cohomotopy*
+*Microscopic brane physics from Cohomotopy theory*
 19. **Ashoke Sen** (Harish-Chandra Research Institute, India):<br />
 *Gravitational waves from soft theorem*
 20. **Eric Sharpe** (Virginia Tech, USA):<br />
