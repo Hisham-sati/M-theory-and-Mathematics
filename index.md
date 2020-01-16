@@ -27,7 +27,7 @@ ___
 9. **Yang-Hui He** (Oxford University, UK):<br />
 *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
 10. **Chris Hull** (Imperial College, UK):<br />
-*TBD*
+*Dualities, K3, Exotic Branes and Orientifolds*
 11. **Branislav Jurco** (Charles University, Czech Republic):<br />
 *Homotopy algebras in string field theory*
 12. **Neil Lambert** (Kings College, UK):<br />
