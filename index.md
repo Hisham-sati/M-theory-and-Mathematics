@@ -216,7 +216,7 @@ its applications for the study of AdS compactifications.
 
 Cohomotopy theory has recently emerged as the proper generalized cohomology theory 
 to describe the fields in M-theory. It is hoped that viewing 
-M-theory  from a firm mathematical perspective will shed the light on the 
+M-theory  from a mathematical perspective will shed the light on the 
 nature of the theory and will allow for progress. I will survey this area, illustrating 
 how cohomotopy captures the nature of the C-field and its dual as well as of the 
 M-branes, allows for cancellation of various anomalies, and provides a firm 
