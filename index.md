@@ -14,43 +14,45 @@ ___
 *Higher spin algebras and representation theory*
 3. **Martin Cederwall** (Chalmers University of Technology, Sweden):  
 *Supersymmetry, nilpotent varieties and superalgebras*
-4. **Michael Duff**  (Imperial College, UK):<br />
+4. **Bianca Letizia Cerchiai** (Politecnico di Torino, Italy):<br />
+*Supergraphity: Supergravity in a Pencil*
+5. **Michael Duff**  (Imperial College, UK):<br />
 *TBD*
-5. **José Figueroa-O’Farrill** (University of Edinburgh, UK):<br />
+6. **José Figueroa-O’Farrill** (University of Edinburgh, UK):<br />
 *Lie superalgebra deformations and d=11 supergravity backgrounds* 
-6. **Domenico Fiorenza** (Sapienza University of Rome, Italy):<br />
+7. **Domenico Fiorenza** (Sapienza University of Rome, Italy):<br />
 *Twisted cohomotopy and the level quantization of the 6d Wess-Zumino term*
-7. **Pietro Grassi** (University del Piemonte Orientale, Italy):<br />
+8. **Pietro Grassi** (University del Piemonte Orientale, Italy):<br />
 *The Integral Form of Supergravity*
-8. **Fei Han**  (National University of Singapore):<br />
+9. **Fei Han**  (National University of Singapore):<br />
 *Projective elliptic genera and elliptic pseudodifferential genera*
-9. **Yang-Hui He** (Oxford University, UK):<br />
+10. **Yang-Hui He** (Oxford University, UK):<br />
 *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
-10. **Chris Hull** (Imperial College, UK):<br />
+11. **Chris Hull** (Imperial College, UK):<br />
 *Dualities, K3, Exotic Branes and Orientifolds*
-11. **Branislav Jurco** (Charles University, Czech Republic):<br />
+12. **Branislav Jurco** (Charles University, Czech Republic):<br />
 *Homotopy algebras in string field theory*
-12. **Neil Lambert** (Kings College, UK):<br />
+13. **Neil Lambert** (Kings College, UK):<br />
 *Lagrangians with (2,0) supersymmetry*
-13. **William Linch III**  (Texas A & M University, USA):<br />
+14. **William Linch III**  (Texas A & M University, USA):<br />
 *Off-shell Supersymmetry and the M-theory Effective Action*
-14. **Varghese Mathai** (University of Adelaide, Australia):<br />
+15. **Varghese Mathai** (University of Adelaide, Australia):<br />
 *T-duality, loop space and Witten gerbe modules*
-15. **Christian Saemann** (Heriot-Watt University, UK):<br />
+16. **Christian Saemann** (Heriot-Watt University, UK):<br />
 *Towards an M5-Brane Model: Progress Report*
-16. **Henning Samtleben** (ENS de Lyon, France):<br />
+17. **Henning Samtleben** (ENS de Lyon, France):<br />
 *Exceptional field theories and AdS compactifications*
-17. **Hisham Sati** (NYUAD):<br />
+18. **Hisham Sati** (NYUAD):<br />
 *M-theory and cohomotopy*  
-18. **Urs Schreiber** (NYUAD and Czech Academy of Sciences):<br />
+19. **Urs Schreiber** (NYUAD and Czech Academy of Sciences):<br />
 *Microscopic brane physics from Cohomotopy theory*
-19. **Ashoke Sen** (Harish-Chandra Research Institute, India):<br />
+20. **Ashoke Sen** (Harish-Chandra Research Institute, India):<br />
 *Gravitational waves from soft theorem*
-20. **Eric Sharpe** (Virginia Tech, USA):<br />
+21. **Eric Sharpe** (Virginia Tech, USA):<br />
 *Decomposition of two-dimensional theories with one-form symmetries*
-21. **Dmitri Sorokin** (University of Padova, Italy):<br />
+22. **Dmitri Sorokin** (University of Padova, Italy):<br />
 *How SYM domain walls look like?* 
-22. **Meng-Chwan Tan** (National University of Singapore):<br />
+23. **Meng-Chwan Tan** (National University of Singapore):<br />
 *Unifying Lattice Models, Links and Quantum Geometric Langlands via Branes in String Theory*
 
 ___
