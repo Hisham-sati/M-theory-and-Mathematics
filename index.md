@@ -255,9 +255,9 @@ In this talk, we will discuss two-dimensional theories with discrete
 one-form symmetries, examples (which we have been studying
 since 2005), their properties, and gauging of the one-form symmetry.
 Their most important property is that such theories decompose into a
-disjoint union of theories, recently deemed `universes.'
+disjoint union of theories, recently deemed 'universes'
 This decomposition has the effect of restricting allowed nonperturbative
-sectors, in a fashion one might deem a `multiverse interference effect,'
+sectors, in a fashion one might deem a 'multiverse interference effect',
 which has had applications in topics including Gromov-Witten theory and
 gauged linear sigma model phases.  After reviewing one-form symmetries
 and decomposition in general, we will discuss a particular 
