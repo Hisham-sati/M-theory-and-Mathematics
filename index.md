@@ -17,7 +17,7 @@ ___
 4. **Bianca Letizia Cerchiai** (Politecnico di Torino, Italy):<br />
 *Supergraphity: Supergravity in a Pencil*
 5. **Michael Duff**  (Imperial College, UK):<br />
-*TBD*
+*Perspective on M-theory*
 6. **José Figueroa-O’Farrill** (University of Edinburgh, UK):<br />
 *Lie superalgebra deformations and d=11 supergravity backgrounds* 
 7. **Domenico Fiorenza** (Sapienza University of Rome, Italy):<br />
