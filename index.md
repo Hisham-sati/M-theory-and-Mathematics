@@ -9,7 +9,7 @@ ___
 ## Speakers
 
 1. **David Berman**  (Queen Mary University of London, UK):<br /> 
-[*Machine learning and M-theory?*]{#abstractBerman}
+*Machine learning and M-theory?*
 2. **Peter Bouwknegt** (The Australian National University, Australia):<br />
 *Higher spin algebras and representation theory*
 3. **Martin Cederwall** (Chalmers University of Technology, Sweden):  
@@ -73,7 +73,7 @@ ___
 ___
 ## Abstracts
 
-{#abstractBerman}**David Berman: Machine learning and M-theory?**
+**David Berman: Machine learning and M-theory?**
 
 Abstract: TBD
 
@@ -88,7 +88,7 @@ In this talk I will discuss higher spin algebras from the point of view
 Supermultiplets can be constructed as the cohomology of a “pure spinor” superspace 
 BRST operator. The pure spinor constraint is, in many cases, related to a superalgebra via 
 Koszul duality. I will sketch the generalisation of this statement to situations when one instead 
-obtains an $L_\infty$ algebra. I will also describe how the partition function for the pure spinor 
+obtains an L-infinity algebra. I will also describe how the partition function for the pure spinor 
 encodes the full content of the supermultiplet. The same mathematics is relevant for extended geometry.
 
 **Bianca Letizia Cerchiai: Supergraphity: Supergravity in a Pencil**
