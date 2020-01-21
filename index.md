@@ -105,9 +105,11 @@ the  Haldane masses entering the corresponding Dirac equations for  the graphene
 pseudoparticles are identified with supergravity torsion parameters.
 
 
-**Michael Duff: Perspectives on M-theory (TBC)**
+**Michael Duff: Perspectives on M-theory**
 
-Abstract: TBD
+Abstract: We provide a historical perspective on the development of M-theory as 
+well as perspectives on the future of the theory and its possible relation to mathematics.
+
 
 **José Figueroa-O’Farrill: Lie superalgebra deformations and d=11 supergravity backgrounds**
 
