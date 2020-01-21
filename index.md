@@ -301,12 +301,13 @@ ___
 ## Scientific Committee
 
   1. Michael Duff
-  2. Neil Lambert 
-  3. Christian Saemann 
-  4. Hisham Sati
-  5. Urs Schreiber 
-  6. Ashoke Sen 
-  7. Meng-Chwan Tan 
+  2. Chris Hull 
+  3. Neil Lambert 
+  4. Christian Saemann 
+  5. Hisham Sati
+  6. Urs Schreiber 
+  7. Ashoke Sen 
+  8. Meng-Chwan Tan 
 
 ## Organizer
 
