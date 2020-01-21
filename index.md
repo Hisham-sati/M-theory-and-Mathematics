@@ -1,4 +1,4 @@
-## About
+## New York University Abu Dhabi (NYUAD) workshop 
 
 The goal of this workshop is to bring together experts on the mathematical aspects of 
 M-theory, with implications to string theory and  quantum field theory and interactions 
