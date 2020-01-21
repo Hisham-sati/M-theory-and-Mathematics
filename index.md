@@ -98,7 +98,7 @@ model with “unconventional” supersymmetry at the boundary of a 4-dimensional
 Sitter  N-extended supergravity, which in the case N=2 reproduces the AVZ model 
 [P.D. Alvarez, M. Valenzuela, J. Zanelli, JHEP 1204 (2012) 058,  arXiv:1109.3944 [hep-th]].
 The extended supersymmetry of the boundary model is instrumental to describe the 
-electronic properties of  graphene, in particular at the two Dirac points K and K'. The  
+electronic properties of  graphene, in particular at the two Dirac points. The  
 two valleys correspond to the two independent sectors of the  OSp(p|2)×OSp(q|2) boundary 
 model in the p=q case, which  are related by a parity transformation. The Semenoff and 
 the  Haldane masses entering the corresponding Dirac equations for  the graphene 
