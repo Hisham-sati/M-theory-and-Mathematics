@@ -14,8 +14,8 @@ ___
 *Higher spin algebras and representation theory*
 3. **Martin Cederwall** (Chalmers University of Technology, Sweden):  
 *Supersymmetry, nilpotent varieties and superalgebras*
-4. **Bianca Letizia Cerchiai** (Politecnico di Torino, Italy):<br />
-*Supergraphity: Supergravity in a Pencil*
+4. **Bianca Letizia Cerchiai** (Politecnico di Torino & Centro Fermi Roma, Italy):<br />
+*Supergravity in a Pencil*
 5. **Michael Duff**  (Imperial College, UK):<br />
 *Perspectives on M-theory*
 6. **José Figueroa-O’Farrill** (University of Edinburgh, UK):<br />
