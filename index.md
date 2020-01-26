@@ -26,7 +26,7 @@ ___
 *The Integral Form of Supergravity*
 9. **Fei Han**  (National University of Singapore):<br />
 *Projective elliptic genera and elliptic pseudodifferential genera*
-10. **Yang-Hui He** (City University of London & Merton College, Oxford University, UK):<br />
+10. **Yang-Hui He** (City, University of London & Merton College, Oxford University, UK):<br />
 *Universes as Bigdata:  Superstrings, Calabi-Yau Manifolds and Machine-Learning*
 11. **Chris Hull** (Imperial College, UK):<br />
 *Dualities, K3, Exotic Branes and Orientifolds*
